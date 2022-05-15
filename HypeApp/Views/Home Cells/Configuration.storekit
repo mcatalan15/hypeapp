@@ -1,0 +1,53 @@
+{
+  "identifier" : "65F917CB",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "150",
+      "familyShareable" : false,
+      "internalID" : "EC3947BF",
+      "localizations" : [
+        {
+          "description" : "To buy an item on HypeApp",
+          "displayName" : "Buy Item",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "To buy an item on HypeApp",
+          "displayName" : "Buy Item",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.Ads",
+      "referenceName" : "Remove Ads",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "9F6C2F17",
+      "localizations" : [
+        {
+          "description" : "Get all aspects of the app",
+          "displayName" : "Unlock Everything",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.everything",
+      "referenceName" : "Everything",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
